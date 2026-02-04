@@ -1,8 +1,8 @@
 # 📚 Quiz React
 
-O **Quiz React** é uma aplicação web criada com **React.js** que permite testar conhecimentos de forma interativa.
+O projeto **Quiz React** é uma aplicação web criada com **React.js** que permite testar conhecimentos de forma interativa.
 
-Os usuários respondem perguntas de múltipla escolha e ao final visualizam sua pontuação. É uma ótima forma de praticar lógica, JavaScript e também aprender conceitos de React como estado e componentes. ([GitHub][2])
+Os usuários respondem perguntas de múltipla escolha e ao final visualizam sua pontuação. É uma ótima forma de praticar lógica, JavaScript e também aprender conceitos de React como estado e componentes. 
 
 ---
 
